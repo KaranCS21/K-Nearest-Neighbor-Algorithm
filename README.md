@@ -3,13 +3,17 @@ K-Nearest Neighbors (KNN) Model on Iris Dataset
 Overview
 This repository contains the implementation of a K-Nearest Neighbors (KNN) model on the famous Iris dataset. The KNN algorithm is a powerful classification technique that predicts the class of a data point based on the majority class of its k-nearest neighbors.
 
+
+
 Key Features
 Data Exploration: Insights into the structure and characteristics of the Iris dataset.
 Model Implementation: Creation and training of the KNN model using Python and Jupyter Notebook.
 Evaluation: Model performance assessment using confusion matrix and classification report.
 Visualization: Data points visualized before and after predictions.
 Getting Started
-Prerequisites
+
+
+->Prerequisites
 Python 3
 Jupyter Notebook
 -> Installation
